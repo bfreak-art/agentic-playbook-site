@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/founders",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/accelerators",
+      "destination": "/index.html"
+    }
+  ]
+}
